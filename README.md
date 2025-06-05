@@ -1,2 +1,2 @@
 # Starbucks
-uma simples pagina do Starbuks
+uma simples pagina do Starbucks
